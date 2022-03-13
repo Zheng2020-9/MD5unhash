@@ -6,9 +6,6 @@ import java.util.concurrent.*;
 
 import java.security.*;
 
-/***************************************************/
-/* CS-350 Fall 2021 - Homework 7 - Code Solution   */
-/* Author: Renato Mancuso (BU)                     */
 /*                                                 */
 /* Description: This class implements the logic of */
 /*   a worker thread that performs MD5 hash        */
@@ -18,8 +15,7 @@ import java.security.*;
 /*   to synchronize with the rest of the system on */
 /*   all the shared data structures and a          */
 /*   brute-force search to reverse each hash.      */
-/*                                                 */
-/***************************************************/
+
 
 public class UnHashWorker extends Thread {
 

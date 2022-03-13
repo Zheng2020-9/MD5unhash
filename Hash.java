@@ -2,17 +2,13 @@ package MD5unhash;
 import java.math.BigInteger;
 import java.security.*;
 
-/***************************************************/
-/* CS-350 Fall 2021 - Homework 5 - Code Solution   */
-/* Author: Renato Mancuso (BU)                     */
-/*                                                 */
+
 /* Description: This class implements the logic of */
 /*   a simple MD5 hash calculator. It takes in     */
 /*   input an integer value and produces in output */
 /*   a string with the hexadecimal representation  */
 /*   of the corresponding MD5 hash.                */
-/*                                                 */
-/***************************************************/
+
 
 public class Hash {
 

@@ -13,18 +13,14 @@ import java.io.File;
 import java.io.IOException;
 
 
-/***************************************************/
-/* CS-350 Fall 2021 - Homework 7 - Code Solution   */
-/* Author: Renato Mancuso (BU)                     */
-/*                                                 */
+
 /* Description: This class implements the logic of */
 /*   a linear dispatcher that also spans and       */
 /*   manages a set of worker threads to crack a    */
 /*   a set of MD5 hashes provied in an input file. */
 /*   The dispatcher also implements a work pruning */
 /*   routine.                                      */
-/*                                                 */
-/***************************************************/
+
 
 public class Dispatcher {
 

@@ -1,16 +1,11 @@
 package MD5unhash;
 
-/***************************************************/
-/* CS-350 Fall 2021 - Homework 7 - Code Solution   */
-/* Author: Renato Mancuso (BU)                     */
-/*                                                 */
+
 /* Description: This class implements a descriptor */
 /*   for a unit of work that needs to be processed */
 /*   by the generic worker thread. The class also  */
 /*   incorporates a field to save the result of    */
 /*   the performed computation.                    */
-/*                                                 */
-/***************************************************/
 
 public class WorkUnit {
 

@@ -9,18 +9,7 @@ import java.util.concurrent.*;
 
 import java.nio.file.*;
 
-/***************************************************/
-/* CS-350 Fall 2021 - Homework 7 - Code Solution   */
-/* Author: Renato Mancuso (BU)                     */
-/*                                                 */
-/* Description: This class implements the logic of */
-/*   a super-entity, called Pirate that uses the   */
-/*   Dispatcher class multiple times to create     */
-/*   two stages of computation. In the first stage */
-/*   the system cracks simple hashes, while in the */
-/*   second, compound hashes are cracked.          */
-/*                                                 */
-/***************************************************/
+
 
 public class Pirate {
 

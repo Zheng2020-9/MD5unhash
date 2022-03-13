@@ -1,8 +1,12 @@
 package MD5unhash;
 
 import java.util.LinkedList;
+
+
 import java.util.Random;
 import java.util.concurrent.Semaphore;
+
+//This worker is useless, but it can increase cpu util to get better score in the challenge.
 
 public class fakeWorker extends Thread{
 	private boolean stopThread;
